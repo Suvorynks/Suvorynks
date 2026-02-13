@@ -35,7 +35,7 @@ I am a results-driven developer with a strong logical foundation rooted in the *
 ### 📫 Let's Connect!
 
 - 📧 [suvorynka@gmail.com]
-- ✍️ [DOU Profile: dou.ua/users/ira-suvorova]
+- ✍️ [DOU Profile: dou.ua/users/ira-suvorova/]
 
 ---
 
