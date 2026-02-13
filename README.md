@@ -9,7 +9,6 @@ I am a results-driven developer with a strong logical foundation rooted in the *
 
 ### 🧠 Professional Snapshot
 - 🎓 **Education:** 2nd-year Applied Mathematics & Informatics student at LPNU.
-- ⚡ **Productivity:** Successfully engineered **23 projects** within a single academic cycle, spanning from low-level C++ to advanced C# .NET 8.0 systems.
 - 🛠 **Mindset:** Technology-agnostic and a rapid upskiller. I prioritize structural integrity and efficient logic over specific syntax.
 - 🎻 **Discipline:** 11+ years of classical music training (violin & piano). I apply the same "quality-first" work ethic and deep focus to every line of code.
 
