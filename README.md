@@ -3,8 +3,6 @@
 ### 🚀 Junior Software Engineer | Applied Mathematics Student at LPNU
 **Lviv, Ukraine** (Originally from **Kherson** 🍉)
 
-I am a results-driven developer with a strong logical foundation rooted in the **Lviv Physics and Mathematics Lyceum (LFML)** and furthered at **Lviv Polytechnic National University**. I view programming as a blend of mathematical precision and creative architecture.
-
 ---
 
 ### 🧠 Professional Snapshot
