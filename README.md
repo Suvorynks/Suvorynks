@@ -8,7 +8,6 @@
 ### 🧠 Professional Snapshot
 - 🎓 **Education:** 2nd-year Applied Mathematics & Informatics student at LPNU.
 - 🛠 **Mindset:** Technology-agnostic and a rapid upskiller. I prioritize structural integrity and efficient logic over specific syntax.
-- 🎻 **Discipline:** 11+ years of classical music training (violin & piano). I apply the same "quality-first" work ethic and deep focus to every line of code.
 
 ---
 
