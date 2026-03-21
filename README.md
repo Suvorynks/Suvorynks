@@ -30,7 +30,3 @@
 
 - 📧 [suvorynka@gmail.com]
 - ✍️ [DOU Profile: dou.ua/users/ira-suvorova/]
-
----
-
-> "Code is like music: every class and function must play in harmony to create a masterpiece." 🎻💻
