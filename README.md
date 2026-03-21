@@ -5,10 +5,7 @@
 
 ---
 
-### 🧠 Professional Snapshot
 - 🎓 **Education:** 2nd-year Applied Mathematics & Informatics student at LPNU.
-- 🛠 **Mindset:** Technology-agnostic and a rapid upskiller. I prioritize structural integrity and efficient logic over specific syntax.
-
 ---
 
 ### 🛠 Tech Stack & Expertise
