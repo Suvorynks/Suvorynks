@@ -5,7 +5,7 @@
 
 ---
 
-- 🎓 **Education:** 2nd-year Applied Mathematics & Informatics student at LPNU.
+- 🎓 **Education:** 3rd-year Applied Mathematics & Informatics student at LPNU.
 ---
 
 ### 🛠 Tech Stack & Expertise
